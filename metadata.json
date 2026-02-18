@@ -1,0 +1,8 @@
+{
+  "name": "MozTickets - Sistema de Bilhética de Moçambique",
+  "description": "Uma plataforma moderna de venda de bilhetes para eventos em Moçambique, com suporte a M-Pesa, e-Mola e pagamentos bancários locais.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
